@@ -7,8 +7,8 @@
 Diseño, estructuración y despliegue de una base de datos relacional orientada a administrar las operaciones académicas y contables de una institución. 
 Este proyecto demuestra la capacidad para modelar estructuras de datos complejas, garantizando el rendimiento y la consistencia de la información.
 
-**Tecnologías**_**
-Motor de Base de Datos:_** SQL Server.
+**Tecnologías**
+**_Motor de Base de Datos:_** SQL Server.
 
 _**Entorno de Desarrollo:**_ SQL Server Management Studio (SSMS).
 
