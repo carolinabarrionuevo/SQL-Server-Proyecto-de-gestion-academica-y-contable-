@@ -1,0 +1,9 @@
+#config locales de usuario de ssms/vscode
+*.suo
+*.user
+
+#archivos fisicos de BD y backups
+*.mdf
+*.ldf
+*.ndf
+*.bak
